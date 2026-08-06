@@ -49,9 +49,10 @@ pip install -r requirements.txt
 
 The fingerprint authentication models were evaluated using Accuracy, Precision, Recall, F1 Score, AUC, FAR, and FRR. Decision Tree, Random Forest, and XGBoost were compared, along with additional experiments on feature selection and different numbers of authorized users.
 
-## Author
+## Authors
 
-**Marjia Ainan**
+**Tasnia Jakia**&**Marjia Ainan**
+**ID-E241415,E241423**
 
 Department of Computer & Communication Engineering (CCE)
 
