@@ -26,8 +26,8 @@ This project presents a machine learning-based fingerprint authentication module
 ```text
 SmartGuard-Home/
 │
-├── SmartGuard_Home.ipynb
-├── SmartGuard_Home_Report.pdf
+├── SmartGuardFAS.ipynb
+├── SmartGuard_Home__AI_Based_Biometric_Access_System Report.pdf
 ├── README.md
 ├── requirements.txt
 └── images/
