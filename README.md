@@ -41,7 +41,7 @@ SmartGuard-Home/
 pip install -r requirements.txt
 ```
 
-2. Open `SmartGuard_Home.ipynb`.
+2. Open `SmartGuardFAS.ipynb`.
 
 3. Run all notebook cells sequentially.
 
