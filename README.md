@@ -30,7 +30,6 @@ SmartGuard-Home/
 ├── SmartGuard_Home__AI_Based_Biometric_Access_System Report.pdf
 ├── README.md
 ├── requirements.txt
-└── images/
 ```
 
 ## How to Run
