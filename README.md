@@ -51,8 +51,8 @@ The fingerprint authentication models were evaluated using Accuracy, Precision, 
 
 ## Authors
 
-**Tasnia Jakia**&**Marjia Ainan**
-**ID-E241415,E241423**
+**Tasnia Jakia** **&** **Marjia Ainan**
+(**ID-E241415,E241423**)
 
 Department of Computer & Communication Engineering (CCE)
 
